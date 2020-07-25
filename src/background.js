@@ -87,3 +87,6 @@ if (isDevelopment) {
     })
   }
 }
+
+require('./event/e_ipcMain.js');
+
